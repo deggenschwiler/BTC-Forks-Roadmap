@@ -56,7 +56,7 @@ Support of the initial and any further forks through the creation of community r
 
 ###4. Governance
 
-Phylomemetic Tree Development. A phylo**genetic** tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylo**memetic** tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely chose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
+Phylomemetic Tree Development. A phylo**genetic** tree is essentially the tree of life. i.e. all species that have ever existed and how they are linked. A phylo**memetic** tree is the same but tracks ideas/memes instead of genes. Development of bitcoin through an evolutionary process will allow the best ideas to succeed and the worst ideas to fail. Allowing people to freely choose which version of a cryptocurrency they want to use is key to making this happen.  Participants currently have only one choice if they disagree strongly with the current development; exit bitcoin completely. It is far too binary as it means price is only a reasonably good signal in the long-term, at which point it may already be too late to fix any problems. Giving participants a choice to support another 'version' of bitcoin is creating a very direct short-term and long-term signal of what the best approach is. It allows the market to signal in real-time.
 
 Allowing bitcoin to be a [stigmergic](http://journal.media-culture.org.au/0605/03-elliott.php) system rather than a hierarchical top-down system. A ‘stigmergic' system is a self regulating system with no top down approach. It suits large decentralised projects.
 
@@ -80,7 +80,7 @@ The consensus abstraction layers are a way of assessing and tracking changes to 
 
 		CAL0 - Freedom of Choice
 
-This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to chose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
+This layer represents the absolute fundamental principle of cryptocurrencies and their forks. Freedom of choice. People should be free to choose any cryptocurrency, or version of a cryptocurrency, that they want to, without coercion or force. 
 
 Forks of CAL0 type should never happen.
 
